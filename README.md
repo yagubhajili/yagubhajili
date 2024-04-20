@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gurban</h1>
-<h3 align="center">FrontEnd And Mobile Developer</h3>
+<h1 align="center">Hi 👋, I'm Yagub</h1>
+<h3 align="center">FrontEnd</h3>
 <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400"  >
 
 
-- 🔭 I’m currently working on **Code Academy**
+- 🌱 I’m currently learning **JS, React
 
-- 🌱 I’m currently learning **JS, React, Dart, Flutter**
-
-- 💬 Ask me about **JS, React, Dart, Flutter**
-
-- 📫 How to reach me **gurban.gurbanzadeh@gmail.com**
+- 📫 How to reach me **yaqubhacili6@gmail.com**
 
 - ⚡ Fun fact **I have a Youtube channel**
 
