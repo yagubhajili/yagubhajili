@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yagub</h1>
-<h3 align="center">IT student that currently learns Front End and Android Development</h3>
+<h3 align="center">IT student that currently learns Front End and Mobile Development</h3>
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
