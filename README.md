@@ -3,11 +3,11 @@
 <h3 align="center">IT student that currently learns Front End and Mobile Development</h3>
 <img  src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" alt="coding" align="right" width="400"  >
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **SOCIAL MEDIA CLONE**
 
 - 🌱 I’m currently learning **JS, React, React Native**
 
-- 💬 Ask me about **JS, React**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **yaqubhacili6@gmail.com**
 
